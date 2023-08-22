@@ -1,0 +1,2098 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="1200" height="768"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+    .func_g:hover { stroke:black; stroke-width:0.5; cursor:pointer; }
+</style>
+<svg class="func_g" x="0.0" y="216" width="1198.9999983787518" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 100.00% (1 94 0.00039154 61.434154291000006)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="6.905663549724784" y="192" width="1192.086686835744" height="23"><g>
+    <title>penrose/tiles.py:1:&lt;module&gt; 99.42% (1 1 0.27905984870150996 61.080226417192755)</title>
+    <rect height="100%" width="100%" fill="rgb(99, 206, 42)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="7.957753610827341" y="168" width="47.47178215016784" height="23"><g>
+    <title>penrose/tiles.py:159:main 4.04% (1 1 4.888675268893348e-06 2.4815191228302576)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
+</g></svg>
+<svg class="func_g" x="7.958057853736692" y="144" width="47.471382416234285" height="23"><g>
+    <title>penrose/tiles.py:153:deflateTileSetNTimes 4.04% (1 1 1.1641549465827173e-05 2.4814986584001053)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflateTileSetNTimes</text>
+</g></svg>
+<svg class="func_g" x="7.958057853736692" y="120" width="47.471155020586025" height="23"><g>
+    <title>penrose/tiles.py:39:deflate 4.04% (14 14 0.035921083106427436 2.4814870168506395)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflate</text>
+</g></svg>
+<svg class="func_g" x="7.958057853736692" y="96" width="46.76950460858074" height="23"><g>
+    <title>penrose/tiles.py:48:deflateTileSet 3.98% (14 14 1.0030786194727055 2.445565933744212)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflateTileSet</text>
+</g></svg>
+<svg class="func_g" x="7.958057853736692" y="72" width="17.61168817242964" height="23"><g>
+    <title>penrose/tiles.py:60:deflateLargeTile 1.55% (1952855 1952855 0.9528277702881607 0.9528277702881607)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflateLargeTile</text>
+</g></svg>
+<svg class="func_g" x="26.569746026166335" y="72" width="6.252211313271572" height="23"><g>
+    <title>penrose/tiles.py:87:deflateSmallTile 0.60% (1206947 1206947 0.3712778911436626 0.3712778911436626)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflateSmallTile</text>
+</g></svg>
+<svg class="func_g" x="33.82270988716786" y="72" width="1.3116091158293246" height="23"><g>
+    <title>~:0:&lt;method 'extend' of 'list' objects&gt; 0.19% (3159802 3159802 0.11834312606183699 0.11834312606183699)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'extend' of 'list' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="56.42953576099518" y="168" width="1137.1095414319793" height="23"><g>
+    <title>penrose/tiles.py:181:parallelized 94.84% (1 1 9.068358401474341e-05 58.26566438571216)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">parallelized</text>
+</g></svg>
+<svg class="func_g" x="56.62995621449348" y="144" width="1136.906721720374" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/multiprocessing.py:148:map 94.83% (1 1 6.852099291876994e-05 58.25528100448477)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">map</text>
+</g></svg>
+<svg class="func_g" x="56.63063671184721" y="120" width="1136.904248023158" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/pool.py:362:map 94.83% (1 1 1.2469750909591288e-05 58.25515436323758)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">map</text>
+</g></svg>
+<svg class="func_g" x="56.63160207036489" y="96" width="1136.9030390916437" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/pool.py:767:get 94.83% (1 1 6.296518299349516e-06 58.25509247183317)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">get</text>
+</g></svg>
+<svg class="func_g" x="56.63171455440235" y="72" width="1136.9028036170314" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/pool.py:764:wait 94.83% (1 1 5.011960958001091e-06 58.2550804166801)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wait</text>
+</g></svg>
+<svg class="func_g" x="56.63171455440235" y="48" width="1136.9027057178546" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/threading.py:604:wait 94.83% (1 1 5.137235125965411e-06 58.25507540471914)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wait</text>
+</g></svg>
+<svg class="func_g" x="56.63184970112598" y="24" width="1136.9024702249599" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/threading.py:288:wait 94.83% (4 4 5.09951049692855e-05 58.25506334863012)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wait</text>
+</g></svg>
+<svg class="func_g" x="56.632066568989565" y="0" width="1136.9012516128375" height="23"><g>
+    <title>~:0:&lt;method 'acquire' of '_thread.lock' objects&gt; 94.83% (8 8 58.25500096162574 58.25500096162574)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'acquire' of '_thread.lock' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="0.4921716316941193" y="264" width="4.4824885575790505" height="23"><g>
+    <title>penrose/tiles.py:1:&lt;module&gt; 0.46% (1 1 0.280676707 61.434122083000005)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="0.4921716316941193" y="288" width="4.4824885575790505" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.46% (1 1 0.280676707 61.434122083000005)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="0.496248110522427" y="312" width="4.421573700138481" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="0.4988380791693296" y="336" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (5 1 2.333e-06 0.049711375)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="0.4988380791693296" y="360" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="2.0998789367543305" y="336" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1209:_handle_fromlist 0.00% (27 7 7.209000000000001e-06 0.048287959000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_handle_fromlist</text>
+</g></svg>
+<svg class="func_g" x="3.655076218832917" y="336" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:934:exec_module 0.00% (91 5 3.1002e-05 0.053254667000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">exec_module</text>
+</g></svg>
+<svg class="func_g" x="3.655076218832917" y="360" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (91 5 0.000118048 0.053718418000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="3.655076218832917" y="384" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (117 6 0.000252325 0.054109918)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="3.655076218832917" y="408" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="6.680471913090941" y="264" width="18.706765696320478" height="23"><g>
+    <title>penrose/tiles.py:48:deflateTileSet 1.64% (14 14 1.008890405 2.459735416)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflateTileSet</text>
+</g></svg>
+<svg class="func_g" x="6.680471913090941" y="288" width="18.706765696320478" height="23"><g>
+    <title>penrose/tiles.py:39:deflate 1.64% (14 14 1.008890405 2.459735416)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflate</text>
+</g></svg>
+<svg class="func_g" x="6.680471913090941" y="312" width="18.706765696320478" height="23"><g>
+    <title>penrose/tiles.py:153:deflateTileSetNTimes 0.06% (14 14 0.036129208 2.495864624)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflateTileSetNTimes</text>
+</g></svg>
+<svg class="func_g" x="6.680471913090941" y="336" width="18.706765696320478" height="23"><g>
+    <title>penrose/tiles.py:159:main 0.00% (1 1 1.1709000000000001e-05 2.495876333)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
+</g></svg>
+<svg class="func_g" x="6.680471913090941" y="360" width="18.706765696320478" height="23"><g>
+    <title>penrose/tiles.py:1:&lt;module&gt; 0.00% (1 1 4.9170000000000005e-06 2.495896916)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="6.680471913090941" y="384" width="18.706765696320478" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.46% (1 1 0.280676707 61.434122083000005)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="6.695124786925839" y="408" width="18.487807679281563" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="6.7044344106029845" y="432" width="4.754929849702415" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (5 1 2.333e-06 0.049711375)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="6.7044344106029845" y="456" width="4.754929849702415" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="12.4593642603054" y="432" width="4.59014544720009" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1209:_handle_fromlist 0.00% (27 7 7.209000000000001e-06 0.048287959000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_handle_fromlist</text>
+</g></svg>
+<svg class="func_g" x="14.700387932136872" y="456" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/__init__.py:1:&lt;module&gt; 0.00% (16 16 1.6243e-05 0.048317414)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="14.700387932136872" y="480" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.1587000000000002e-05 0.049187291)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="14.701735479116852" y="504" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="16.512766078151046" y="456" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/helpers/__init__.py:1:&lt;module&gt; 0.00% (5 5 4.501000000000001e-06 0.036515501)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="16.512766078151046" y="480" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 6.459e-06 0.036868709)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="16.513784476054028" y="504" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="18.04950970750549" y="432" width="5.165125642858644" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:934:exec_module 0.00% (91 5 3.1002e-05 0.053254667000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">exec_module</text>
+</g></svg>
+<svg class="func_g" x="18.04950970750549" y="456" width="5.165125642858644" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (91 5 0.000118048 0.053718418000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="18.04950970750549" y="480" width="5.165125642858644" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (117 6 0.000252325 0.054109918)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="18.04950970750549" y="504" width="5.165125642858644" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="26.38723760941142" y="264" width="17.7195233289759" height="23"><g>
+    <title>penrose/tiles.py:60:deflateLargeTile 1.56% (1964170 1964170 0.9583484050000001 0.9583484050000001)</title>
+    <rect height="100%" width="100%" fill="rgb(230, 230, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflateLargeTile</text>
+</g></svg>
+<svg class="func_g" x="26.38723760941142" y="288" width="17.7195233289759" height="23"><g>
+    <title>penrose/tiles.py:48:deflateTileSet 1.56% (1964170 1964170 0.9583484050000001 0.9583484050000001)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflateTileSet</text>
+</g></svg>
+<svg class="func_g" x="26.38723760941142" y="312" width="17.7195233289759" height="23"><g>
+    <title>penrose/tiles.py:39:deflate 1.64% (14 14 1.008890405 2.459735416)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflate</text>
+</g></svg>
+<svg class="func_g" x="26.38723760941142" y="336" width="17.7195233289759" height="23"><g>
+    <title>penrose/tiles.py:153:deflateTileSetNTimes 0.06% (14 14 0.036129208 2.495864624)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflateTileSetNTimes</text>
+</g></svg>
+<svg class="func_g" x="26.38723760941142" y="360" width="17.7195233289759" height="23"><g>
+    <title>penrose/tiles.py:159:main 0.00% (1 1 1.1709000000000001e-05 2.495876333)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
+</g></svg>
+<svg class="func_g" x="26.38723760941142" y="384" width="17.7195233289759" height="23"><g>
+    <title>penrose/tiles.py:1:&lt;module&gt; 0.00% (1 1 4.9170000000000005e-06 2.495896916)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="26.38723760941142" y="408" width="17.7195233289759" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.46% (1 1 0.280676707 61.434122083000005)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="26.401156423782883" y="432" width="17.511534368677275" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="26.409999666773327" y="456" width="4.466627311565322" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (5 1 2.333e-06 0.049711375)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="26.409999666773327" y="480" width="4.466627311565322" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="31.87662697833865" y="456" width="4.310098050781065" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1209:_handle_fromlist 0.00% (27 7 7.209000000000001e-06 0.048287959000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_handle_fromlist</text>
+</g></svg>
+<svg class="func_g" x="34.00538293718527" y="480" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/__init__.py:1:&lt;module&gt; 0.00% (16 16 1.6243e-05 0.048317414)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="34.00538293718527" y="504" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.1587000000000002e-05 0.049187291)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="34.006662976615246" y="528" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="35.72696706255867" y="480" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/helpers/__init__.py:1:&lt;module&gt; 0.00% (5 5 4.501000000000001e-06 0.036515501)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="35.72696706255867" y="504" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 6.459e-06 0.036868709)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="35.727934442168134" y="528" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="37.186725029119714" y="456" width="4.856273681637583" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:934:exec_module 0.00% (91 5 3.1002e-05 0.053254667000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">exec_module</text>
+</g></svg>
+<svg class="func_g" x="37.186725029119714" y="480" width="4.856273681637583" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (91 5 0.000118048 0.053718418000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="37.186725029119714" y="504" width="4.856273681637583" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (117 6 0.000252325 0.054109918)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="37.186725029119714" y="528" width="4.856273681637583" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="45.106760938387325" y="264" width="6.2942302497069935" height="23"><g>
+    <title>penrose/tiles.py:87:deflateSmallTile 0.61% (1213940 1213940 0.37342905600000004 0.37342905600000004)</title>
+    <rect height="100%" width="100%" fill="rgb(166, 166, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflateSmallTile</text>
+</g></svg>
+<svg class="func_g" x="45.106760938387325" y="288" width="6.2942302497069935" height="23"><g>
+    <title>penrose/tiles.py:48:deflateTileSet 0.61% (1213940 1213940 0.37342905600000004 0.37342905600000004)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflateTileSet</text>
+</g></svg>
+<svg class="func_g" x="45.106760938387325" y="312" width="6.2942302497069935" height="23"><g>
+    <title>penrose/tiles.py:39:deflate 1.64% (14 14 1.008890405 2.459735416)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflate</text>
+</g></svg>
+<svg class="func_g" x="45.106760938387325" y="336" width="6.2942302497069935" height="23"><g>
+    <title>penrose/tiles.py:153:deflateTileSetNTimes 0.06% (14 14 0.036129208 2.495864624)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflateTileSetNTimes</text>
+</g></svg>
+<svg class="func_g" x="45.106760938387325" y="360" width="6.2942302497069935" height="23"><g>
+    <title>penrose/tiles.py:159:main 0.00% (1 1 1.1709000000000001e-05 2.495876333)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
+</g></svg>
+<svg class="func_g" x="45.106760938387325" y="384" width="6.2942302497069935" height="23"><g>
+    <title>penrose/tiles.py:1:&lt;module&gt; 0.00% (1 1 4.9170000000000005e-06 2.495896916)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="45.106760938387325" y="408" width="6.2942302497069935" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.46% (1 1 0.280676707 61.434122083000005)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="45.11218452931131" y="432" width="6.213185484882933" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="45.1156303782997" y="456" width="1.1301203881709974" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (5 1 2.333e-06 0.049711375)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="45.1156303782997" y="480" width="1.1301203881709974" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="47.24575076647069" y="456" width="1.069127357049875" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1209:_handle_fromlist 0.00% (27 7 7.209000000000001e-06 0.048287959000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_handle_fromlist</text>
+</g></svg>
+<svg class="func_g" x="49.31487812352057" y="456" width="1.2819495928639517" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:934:exec_module 0.00% (91 5 3.1002e-05 0.053254667000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">exec_module</text>
+</g></svg>
+<svg class="func_g" x="49.31487812352057" y="480" width="1.2819495928639517" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (91 5 0.000118048 0.053718418000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="49.31487812352057" y="504" width="1.2819495928639517" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (117 6 0.000252325 0.054109918)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="49.31487812352057" y="528" width="1.2819495928639517" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="53.122060203390255" y="264" width="1143.503899663948" height="23"><g>
+    <title>~:0:&lt;method 'acquire' of '_thread.lock' objects&gt; 95.38% (19 19 58.593024378 58.593024378)</title>
+    <rect height="100%" width="100%" fill="rgb(182, 182, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'acquire' of '_thread.lock' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="53.12212126388728" y="288" width="1143.5038328997834" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/threading.py:288:wait 95.38% (8 8 58.593020960000004 58.593020960000004)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wait</text>
+</g></svg>
+<svg class="func_g" x="53.12212126388728" y="312" width="1143.5038328997834" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/threading.py:604:wait 0.00% (4 4 5.1291e-05 58.593083709000005)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wait</text>
+</g></svg>
+<svg class="func_g" x="53.13198873111727" y="336" width="1143.4939654325535" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/pool.py:764:wait 0.00% (1 1 5.167000000000001e-06 58.592602292)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wait</text>
+</g></svg>
+<svg class="func_g" x="53.13198873111727" y="360" width="1143.4939654325535" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/pool.py:767:get 0.00% (1 1 5.0410000000000005e-06 58.592607333000004)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">get</text>
+</g></svg>
+<svg class="func_g" x="53.13198873111727" y="384" width="1143.4939654325535" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/pool.py:362:map 0.00% (1 1 6.333e-06 58.592619458)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">map</text>
+</g></svg>
+<svg class="func_g" x="53.13198873111727" y="408" width="1143.4939654325535" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/multiprocessing.py:148:map 0.00% (1 1 1.2542000000000001e-05 58.592681708)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">map</text>
+</g></svg>
+<svg class="func_g" x="53.13198873111727" y="432" width="1143.4939654325535" height="23"><g>
+    <title>penrose/tiles.py:181:parallelized 0.00% (1 1 6.8918e-05 58.592809083000006)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">parallelized</text>
+</g></svg>
+<svg class="func_g" x="53.13198873111727" y="456" width="1143.4939654325535" height="23"><g>
+    <title>penrose/tiles.py:1:&lt;module&gt; 0.00% (1 1 9.1209e-05 58.603252625)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="53.13198873111727" y="480" width="1143.4939654325535" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.46% (1 1 0.280676707 61.434122083000005)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="53.98297188780112" y="504" width="1130.7777169600347" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="54.52363940692282" y="528" width="333.2244275884333" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (5 1 2.333e-06 0.049711375)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="54.52363940692282" y="552" width="333.2244275884333" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="55.38278522564407" y="576" width="1" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ctypes/__init__.py:1:&lt;module&gt; 0.00% (2 2 6.582000000000001e-06 0.001351376)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="55.38278522564407" y="600" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 6.425e-05 0.0017964160000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="55.38391640514407" y="624" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="58.644409934339116" y="576" width="1" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/logging/__init__.py:1:&lt;module&gt; 0.00% (3 3 1.0293000000000001e-05 0.001168709)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="58.644409934339116" y="600" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 4.4584000000000005e-05 0.003226708)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="58.64538821104542" y="624" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="60.48536608717366" y="576" width="1" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/pathlib.py:1:&lt;module&gt; 0.00% (3 3 6.623000000000001e-06 0.001545417)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="60.48536608717366" y="600" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.0004e-05 0.001767417)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="60.48665969016006" y="624" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="62.22514295581133" y="576" width="1" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/pickle.py:1:&lt;module&gt; 0.00% (4 4 1.0833000000000001e-05 0.001427958)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="62.22514295581133" y="600" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.8166e-05 0.001842583)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="62.22633823885355" y="624" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="64.71411439557423" y="576" width="1" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/random.py:1:&lt;module&gt; 0.00% (4 4 1.1502000000000001e-05 0.001692834)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="64.71411439557423" y="600" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.6208e-05 0.0017906670000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="64.71553139507525" y="624" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="67.0114738227196" y="576" width="1" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/shutil.py:1:&lt;module&gt; 0.00% (3 3 6.126e-06 0.001644541)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="67.0114738227196" y="600" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.4626e-05 0.0017740840000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="67.01285039819977" y="624" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="68.86284105326402" y="576" width="1" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socket.py:1:&lt;module&gt; 0.00% (3 3 7.748000000000001e-06 0.0016792080000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="68.86284105326402" y="600" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 4.6087e-05 0.0029541660000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="68.8642466470187" y="624" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="72.05912296529878" y="576" width="1.279908938868903" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/tempfile.py:1:&lt;module&gt; 0.00% (1 1 2.333e-06 0.002025208)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="72.05912296529878" y="600" width="1.279908938868903" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.0834e-05 0.002093417)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="72.06081818096996" y="624" width="1.2545773168271772" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="74.69407014300329" y="576" width="3.344843983131163" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/cairo/__init__.py:1:&lt;module&gt; 0.00% (1 1 2.2920000000000002e-06 0.003859458)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="74.69407014300329" y="600" width="3.344843983131163" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 3.3542000000000005e-05 0.0038932080000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="74.69730073150767" y="624" width="3.2965692719203075" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="79.03891412613446" y="576" width="28.139685633904403" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/dill/__init__.py:1:&lt;module&gt; 0.00% (3 3 7.835e-06 0.025884334000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="79.03891412613446" y="600" width="28.139685633904403" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.804e-05 0.026787125000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="79.06058080364826" y="624" width="27.815920289460873" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="108.17859976003885" y="576" width="18.911174862481843" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/dill/_dill.py:1:&lt;module&gt; 0.00% (9 9 2.5037e-05 0.01768679)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="108.17859976003885" y="600" width="18.911174862481843" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 0.000188975 0.019709084)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="108.19340462135705" y="624" width="18.689945695200567" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="128.35376771659978" y="576" width="3.969783332462522" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/dill/session.py:1:&lt;module&gt; 0.00% (2 2 4.3750000000000005e-06 0.004414582)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="128.35376771659978" y="600" width="3.969783332462522" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.3835e-05 0.005373)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="128.35746297584626" y="624" width="3.91456504244184" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="135.2987524651697" y="576" width="1.2315483121105997" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/pool.py:1:&lt;module&gt; 0.00% (2 2 4.3310000000000005e-06 0.00198225)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="135.2987524651697" y="600" width="1.2315483121105997" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.1545e-05 0.0034932500000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="135.30041172252209" y="624" width="1.2067540155286132" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="137.5303007772803" y="576" width="29.439990738693677" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/reduction.py:1:&lt;module&gt; 0.00% (1 1 2.6250000000000003e-06 0.027039375)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="137.5303007772803" y="600" width="29.439990738693677" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.5087000000000001e-05 0.027107542000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="137.55293429059762" y="624" width="29.101777958700467" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="167.97029151597397" y="576" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/util.py:1:&lt;module&gt; 0.00% (1 1 2.166e-06 0.001157541)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="167.97029151597397" y="600" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.2378e-05 0.001200459)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="167.97126044442143" y="624" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="170.17256992967876" y="576" width="3.7061212133884966" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/__init__.py:28:logger 0.00% (1 1 3.1260000000000002e-06 0.004180375)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">logger</text>
+</g></svg>
+<svg class="func_g" x="170.20959336903732" y="600" width="3.6690977740299537" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/selector.py:25:Selector 0.00% (1 1 5.959e-06 0.00422475)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">Selector</text>
+</g></svg>
+<svg class="func_g" x="170.20959336903732" y="624" width="3.6690977740299537" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.__build_class__&gt; 0.00% (1 1 7.625000000000001e-06 0.004238708)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.__build_class__&gt;</text>
+</g></svg>
+<svg class="func_g" x="172.70492454791182" y="648" width="1.0249892139394499" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/selector.py:1:&lt;module&gt; 0.00% (1 1 9.584e-06 0.004248292)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="172.70492454791182" y="672" width="1.0249892139394499" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 8.33e-07 0.004249125)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="172.70643021920895" y="696" width="1.00248995507364" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="174.8786911430673" y="576" width="2.645977876549369" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/connection.py:1:&lt;module&gt; 0.00% (3 3 8.874e-06 0.0032386660000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="174.8786911430673" y="600" width="2.645977876549369" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 9.375000000000001e-06 0.0033127910000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="174.8814020929336" y="624" width="2.605468129880687" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="178.52466901961665" y="576" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/core.py:1:&lt;module&gt; 0.00% (1 1 3.4990000000000003e-06 0.001380792)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="178.52466901961665" y="600" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 5.834e-06 0.001703667)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="178.5258248220019" y="624" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="180.45634159373336" y="576" width="39.607714010161196" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/helpers/pp_helper.py:1:&lt;module&gt; 0.00% (3 3 7.0420000000000005e-06 0.036071207)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="180.45634159373336" y="600" width="39.607714010161196" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 6.46e-06 0.03610025)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="180.4865352703256" y="624" width="39.15652964672156" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="221.41665543503987" y="576" width="41.513354386941884" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/pools.py:1:&lt;module&gt; 0.00% (4 4 8.206e-06 0.037763958)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="221.41665543503987" y="600" width="41.513354386941884" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 5.791e-06 0.037771083000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="221.44826604165738" y="624" width="41.04099682620955" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="264.39091615758576" y="576" width="2.824224803248685" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/ppft/__init__.py:1:&lt;module&gt; 0.00% (2 2 4.043e-06 0.0033970000000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="264.39091615758576" y="600" width="2.824224803248685" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.2585e-05 0.0036650830000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="264.3937596421241" y="624" width="2.7817345898603603" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="268.21514096083445" y="576" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/ppft/common.py:1:&lt;module&gt; 0.00% (1 1 2.375e-06 0.001071541)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="268.21514096083445" y="600" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 4.668e-06 0.0010834590000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="269.42144466112825" y="576" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/ppft/transport.py:1:&lt;module&gt; 0.00% (1 1 1.8350000000000002e-06 0.0014470000000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="269.42144466112825" y="600" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 5.251e-06 0.002709125)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="269.42265588342053" y="624" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="271.80370480589556" y="576" width="59.98336501008724" height="23"><g>
+    <title>penrose/tiles.py:1:&lt;module&gt; 0.00% (3 3 1.3837000000000002e-05 0.054170584)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="271.80370480589556" y="600" width="59.98336501008724" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.46% (1 1 0.280676707 61.434122083000005)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="332.78706981598276" y="576" width="54.96099717937339" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.__import__&gt; 0.00% (30 1 7.2792e-05 0.049709292)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.__import__&gt;</text>
+</g></svg>
+<svg class="func_g" x="332.7876799613578" y="600" width="54.960387033998344" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (32 1 3.4335e-05 0.049710333)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="332.8144130938213" y="624" width="15.525619866684238" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (5 1 2.333e-06 0.049711375)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="349.3400329605056" y="624" width="15.052431753739139" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1209:_handle_fromlist 0.00% (27 7 7.209000000000001e-06 0.048287959000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_handle_fromlist</text>
+</g></svg>
+<svg class="func_g" x="349.63203116290157" y="648" width="2.0157653694561555" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/__init__.py:1:&lt;module&gt; 0.00% (1 1 1.667e-06 0.027999292000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="349.63203116290157" y="672" width="2.0157653694561555" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 7.916e-06 0.028268458000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="349.63427352119385" y="696" width="1.9822577906212349" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="352.6480254131955" y="648" width="1.9785832734520863" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/context.py:1:&lt;module&gt; 0.00% (2 2 3.3760000000000004e-06 0.027654082000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="352.6480254131955" y="672" width="1.9785832734520863" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.4753000000000001e-05 0.027789750000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="352.6502401249135" y="696" width="1.9454888176093337" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="355.775264367339" y="648" width="4.204202444935965" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/__init__.py:1:&lt;module&gt; 0.00% (16 16 1.6243e-05 0.048317414)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="355.775264367339" y="672" width="4.204202444935965" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.1587000000000002e-05 0.049187291)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="355.77913392782455" y="696" width="4.146379570032398" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="360.9796149116405" y="648" width="2.9330345697363205" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/helpers/__init__.py:1:&lt;module&gt; 0.00% (5 5 4.501000000000001e-06 0.036515501)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="360.9796149116405" y="672" width="2.9330345697363205" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 6.459e-06 0.036868709)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="360.98253930117386" y="696" width="2.8893353923266165" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="365.39246471424474" y="624" width="16.70352123571021" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:934:exec_module 0.00% (91 5 3.1002e-05 0.053254667000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">exec_module</text>
+</g></svg>
+<svg class="func_g" x="365.39246471424474" y="648" width="16.70352123571021" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (91 5 0.000118048 0.053718418000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="365.39246471424474" y="672" width="16.70352123571021" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (117 6 0.000252325 0.054109918)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="365.39246471424474" y="696" width="16.703521235710213" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="383.0959859499549" y="624" width="1.2728747440802728" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:999:source_to_code 0.00% (1 1 1.6250000000000001e-06 0.006837125)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">source_to_code</text>
+</g></svg>
+<svg class="func_g" x="383.0959859499549" y="648" width="1.2728747440802732" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:1007:get_code 0.00% (1 1 1.125e-06 0.006838250000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">get_code</text>
+</g></svg>
+<svg class="func_g" x="383.0959859499549" y="672" width="1.2728747440802732" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:934:exec_module 0.00% (91 91 0.00037077800000000005 0.016588250000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">exec_module</text>
+</g></svg>
+<svg class="func_g" x="383.0959859499549" y="696" width="1.2728747440802732" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (91 5 0.000118048 0.053718418000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="383.0959859499549" y="720" width="1.2728747440802728" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (117 6 0.000252325 0.054109918)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="383.0959859499549" y="744" width="1.2728747440802723" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="385.3688606940352" y="624" width="2.2801829783207603" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:1231:create_module 0.00% (22 22 1.0751000000000001e-05 0.009867249)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">create_module</text>
+</g></svg>
+<svg class="func_g" x="385.3688606940352" y="648" width="2.280182978320761" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:566:module_from_spec 0.00% (22 22 2.5875000000000002e-05 0.009899458)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">module_from_spec</text>
+</g></svg>
+<svg class="func_g" x="385.3688606940352" y="672" width="2.280182978320761" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (117 117 0.000147835 0.01163925)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="385.3688606940352" y="696" width="2.280182978320761" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (117 6 0.000252325 0.054109918)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="385.3688606940352" y="720" width="2.280182978320761" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="388.7480669953561" y="528" width="323.6543765121914" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1209:_handle_fromlist 0.00% (27 7 7.209000000000001e-06 0.048287959000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_handle_fromlist</text>
+</g></svg>
+<svg class="func_g" x="388.7523344151335" y="552" width="1.5949789738652895" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/__init__.py:1:&lt;module&gt; 0.00% (1 1 1.4590000000000001e-06 0.00119125)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="388.7523344151335" y="576" width="1.5949789738652895" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 4.707e-06 0.0012485830000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="388.75426389966157" y="600" width="1.5661466703239064" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="392.4088117303661" y="552" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/dill/__init__.py:1:&lt;module&gt; 0.00% (2 2 5.335000000000001e-06 0.000852001)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="392.4088117303661" y="576" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.804e-05 0.026787125000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="392.41019172847507" y="600" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="394.653620483816" y="552" width="59.992716913422555" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/__init__.py:1:&lt;module&gt; 0.00% (1 1 1.667e-06 0.027999292000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="394.653620483816" y="576" width="59.992716913422555" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 7.916e-06 0.028268458000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="394.69897133435904" y="600" width="59.31503877206867" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="455.65096642583825" y="552" width="59.240723048517594" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/context.py:1:&lt;module&gt; 0.00% (2 2 3.3760000000000004e-06 0.027654082000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="455.65096642583825" y="576" width="59.240723048517594" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.4753000000000001e-05 0.027789750000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="455.69575813484596" y="600" width="58.571400163831505" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="515.8916894743559" y="552" width="1.9724702656680941" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/pool.py:1:&lt;module&gt; 0.00% (2 2 2.25e-06 0.0013645410000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="515.8916894743559" y="576" width="1.9724702656680941" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.1545e-05 0.0034932500000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="515.8938996407754" y="600" width="1.9394437302585135" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="518.8981945366559" y="552" width="104.25303118702573" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/__init__.py:1:&lt;module&gt; 0.00% (16 16 1.6243e-05 0.048317414)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="518.8981945366559" y="576" width="104.25303118702573" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.1587000000000002e-05 0.049187291)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="518.9764549377024" y="600" width="103.08358535551875" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="624.1542209774815" y="552" width="78.54414045343711" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/helpers/__init__.py:1:&lt;module&gt; 0.00% (5 5 4.501000000000001e-06 0.036515501)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="624.1542209774815" y="576" width="78.54414045343711" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 6.459e-06 0.036868709)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="624.2133656525809" y="600" width="77.66034107564262" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="704.2550277158448" y="552" width="5.504602070062335" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/ppft/_pp.py:1:&lt;module&gt; 0.00% (3 3 3e-06 0.0029860000000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="704.2550277158448" y="576" width="5.504602070062335" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 9.252e-06 0.0030596670000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="704.259864182414" y="600" width="5.432330709412119" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="710.7616273478959" y="552" width="1.6334641730520918" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/ppft/transport.py:1:&lt;module&gt; 0.00% (1 1 1.334e-06 0.001208917)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="710.7616273478959" y="576" width="1.6334641730520918" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 5.251e-06 0.002709125)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="710.7635854479146" y="600" width="1.6042042679940955" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="713.4024435075474" y="528" width="357.0470384190264" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:934:exec_module 0.00% (91 5 3.1002e-05 0.053254667000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">exec_module</text>
+</g></svg>
+<svg class="func_g" x="713.4024435075474" y="552" width="357.0470384190264" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (91 5 0.000118048 0.053718418000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="713.4024435075474" y="576" width="357.0470384190264" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (117 6 0.000252325 0.054109918)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="713.4024435075474" y="600" width="357.0470384190264" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="714.3228269103489" y="624" width="1" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/ctypes/__init__.py:1:&lt;module&gt; 0.00% (2 2 6.582000000000001e-06 0.001351376)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="714.3228269103489" y="648" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 6.425e-05 0.0017964160000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="714.3240387172561" y="672" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="717.8169313832292" y="624" width="1" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/logging/__init__.py:1:&lt;module&gt; 0.00% (3 3 1.0293000000000001e-05 0.001168709)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="717.8169313832292" y="648" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 4.4584000000000005e-05 0.003226708)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="717.8179793888463" y="672" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="719.7891058982332" y="624" width="1" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/pathlib.py:1:&lt;module&gt; 0.00% (3 3 6.623000000000001e-06 0.001545417)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="719.7891058982332" y="648" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.0004e-05 0.001767417)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="719.7904917057324" y="672" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="721.6528893440461" y="624" width="1" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/pickle.py:1:&lt;module&gt; 0.00% (4 4 1.0833000000000001e-05 0.001427958)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="721.6528893440461" y="648" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.8166e-05 0.001842583)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="721.654169823622" y="672" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="724.3192679183077" y="624" width="1.0415693535850816" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/random.py:1:&lt;module&gt; 0.00% (4 4 1.1502000000000001e-05 0.001692834)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="724.3192679183077" y="648" width="1.0415693535850816" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.6208e-05 0.0017906670000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="724.3207859176905" y="672" width="1.0188858760324013" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="726.7803768953163" y="624" width="1" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/shutil.py:1:&lt;module&gt; 0.00% (3 3 6.126e-06 0.001644541)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="726.7803768953163" y="648" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.4626e-05 0.0017740840000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="726.7818515893637" y="672" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="728.7637045614159" y="624" width="1.0251363046198847" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socket.py:1:&lt;module&gt; 0.00% (3 3 7.748000000000001e-06 0.0016792080000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="728.7637045614159" y="648" width="1.0251363046198847" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 4.6087e-05 0.0029541660000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="728.7652103420817" y="672" width="1.0026354114583103" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="732.18780878029" y="624" width="1.4424146652508965" height="23"><g>
+    <title>/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/tempfile.py:1:&lt;module&gt; 0.00% (1 1 2.333e-06 0.002025208)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="732.18780878029" y="648" width="1.4424146652508965" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.0834e-05 0.002093417)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="732.189624826337" y="672" width="1.415277473885702" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="735.0105678472287" y="624" width="3.6545326796654436" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/cairo/__init__.py:1:&lt;module&gt; 0.00% (1 1 2.2920000000000002e-06 0.003859458)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="735.0105678472287" y="648" width="3.6545326796654436" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 3.3542000000000005e-05 0.0038932080000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="735.0140287033208" y="672" width="3.6028170779534543" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="739.6651005268942" y="624" width="30.21668340331087" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/dill/__init__.py:1:&lt;module&gt; 0.00% (3 3 7.835e-06 0.025884334000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="739.6651005268942" y="648" width="30.21668340331087" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.804e-05 0.026787125000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="739.6883115464242" y="672" width="29.869840943119804" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="770.8817839302051" y="624" width="20.3303894104768" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/dill/_dill.py:1:&lt;module&gt; 0.00% (9 9 2.5037e-05 0.01768679)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="770.8817839302051" y="648" width="20.3303894104768" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 0.000188975 0.019709084)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="770.8976440418894" y="672" width="20.093391628092963" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="792.4949831465962" y="624" width="4.3240160110727555" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/dill/session.py:1:&lt;module&gt; 0.00% (2 2 4.3750000000000005e-06 0.004414582)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="792.4949831465962" y="648" width="4.3240160110727555" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.3835e-05 0.005373)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="792.4989417939008" y="672" width="4.264861911083349" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="799.9349875742582" y="624" width="1.3906070241642285" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/pool.py:1:&lt;module&gt; 0.00% (2 2 4.3310000000000005e-06 0.00198225)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="799.9349875742582" y="648" width="1.390607024164228" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.1545e-05 0.0034932500000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="799.936765098975" y="672" width="1.3640454573603953" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="802.3255945984225" y="624" width="31.60967072973169" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/reduction.py:1:&lt;module&gt; 0.00% (1 1 2.6250000000000003e-06 0.027039375)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="802.3255945984225" y="648" width="31.60967072973169" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.5087000000000001e-05 0.027107542000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="802.3498413671904" y="672" width="31.24735105996431" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="834.9352653281542" y="624" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/util.py:1:&lt;module&gt; 0.00% (1 1 2.166e-06 0.001157541)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="834.9352653281542" y="648" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.2378e-05 0.001200459)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="834.9363033191938" y="672" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="837.29451617493" y="624" width="4.041560771164352" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/__init__.py:28:logger 0.00% (1 1 3.1260000000000002e-06 0.004180375)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">logger</text>
+</g></svg>
+<svg class="func_g" x="837.3341785446438" y="648" width="4.001898401450503" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/selector.py:25:Selector 0.00% (1 1 5.959e-06 0.00422475)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">Selector</text>
+</g></svg>
+<svg class="func_g" x="837.3341785446438" y="672" width="4.001898401450503" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.__build_class__&gt; 0.00% (1 1 7.625000000000001e-06 0.004238708)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.__build_class__&gt;</text>
+</g></svg>
+<svg class="func_g" x="840.0073701629746" y="696" width="1.1693249536335935" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/selector.py:1:&lt;module&gt; 0.00% (1 1 9.584e-06 0.004248292)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="840.0073701629746" y="720" width="1.1693249536335935" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 8.33e-07 0.004249125)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="840.0089831544385" y="744" width="1.145222008610538" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="842.3360769460943" y="624" width="2.9058532922294695" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/connection.py:1:&lt;module&gt; 0.00% (3 3 8.874e-06 0.0032386660000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="842.3360769460943" y="648" width="2.9058532922294695" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 9.375000000000001e-06 0.0033127910000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="842.3389811251154" y="672" width="2.8624561206747696" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="846.2419302383239" y="624" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/core.py:1:&lt;module&gt; 0.00% (1 1 3.4990000000000003e-06 0.001380792)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="846.2419302383239" y="648" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 5.834e-06 0.001703667)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="846.2431684231688" y="672" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="848.3112871951091" y="624" width="42.50212174260658" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/helpers/pp_helper.py:1:&lt;module&gt; 0.00% (3 3 7.0420000000000005e-06 0.036071207)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="848.3112871951091" y="648" width="42.50212174260658" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 6.46e-06 0.03610025)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="848.3436329950881" y="672" width="42.018778181287175" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="892.1911411286258" y="624" width="44.54359099762539" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/pools.py:1:&lt;module&gt; 0.00% (4 4 8.206e-06 0.037763958)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="892.1911411286258" y="648" width="44.54359099762539" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 5.791e-06 0.037771083000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="892.2250048535595" y="672" width="44.03756507092887" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="938.2284906155462" y="624" width="3.0968051764842404" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/ppft/__init__.py:1:&lt;module&gt; 0.00% (2 2 4.043e-06 0.0033970000000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="938.2284906155462" y="648" width="3.0968051764842404" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.2585e-05 0.0036650830000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="938.2315367759514" y="672" width="3.0512863759128592" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="942.3252957920305" y="624" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/ppft/common.py:1:&lt;module&gt; 0.00% (1 1 2.375e-06 0.001071541)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="942.3252957920305" y="648" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 4.668e-06 0.0010834590000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="942.3262566650852" y="672" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="943.6175815487614" y="624" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/ppft/transport.py:1:&lt;module&gt; 0.00% (1 1 1.8350000000000002e-06 0.0014470000000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="943.6175815487614" y="648" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 5.251e-06 0.002709125)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="943.6188791036941" y="672" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="946.1696427363058" y="624" width="64.33009389001306" height="23"><g>
+    <title>penrose/tiles.py:1:&lt;module&gt; 0.00% (3 3 1.3837000000000002e-05 0.054170584)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="946.1696427363058" y="648" width="64.33009389001306" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.46% (1 1 0.280676707 61.434122083000005)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1011.4997366263188" y="624" width="58.94974530025512" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.__import__&gt; 0.00% (30 1 7.2792e-05 0.049709292)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.__import__&gt;</text>
+</g></svg>
+<svg class="func_g" x="1011.5003902612017" y="648" width="58.94909166537236" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (32 1 3.4335e-05 0.049710333)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1011.5290288588508" y="672" width="16.70352123571021" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (5 1 2.333e-06 0.049711375)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1011.5290288588508" y="696" width="16.703521235710213" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="1029.232550094561" y="672" width="16.196605557291548" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1209:_handle_fromlist 0.00% (27 7 7.209000000000001e-06 0.048287959000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_handle_fromlist</text>
+</g></svg>
+<svg class="func_g" x="1029.5453611369671" y="696" width="2.230720946675073" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/__init__.py:1:&lt;module&gt; 0.00% (1 1 1.667e-06 0.027999292000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1029.5453611369671" y="720" width="2.230720946675073" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 7.916e-06 0.028268458000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1029.5477633244777" y="744" width="2.1948250384884673" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1032.7763272784855" y="696" width="2.1908886117002564" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/context.py:1:&lt;module&gt; 0.00% (2 2 3.3760000000000004e-06 0.027654082000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1032.7763272784855" y="720" width="2.1908886117002564" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.4753000000000001e-05 0.027789750000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1032.7786998488489" y="744" width="2.1554352727923702" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1036.1264673446642" y="696" width="4.575143882172858" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/__init__.py:1:&lt;module&gt; 0.00% (16 16 1.6243e-05 0.048317414)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1036.1264673446642" y="720" width="4.575143882172858" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 2.1587000000000002e-05 0.049187291)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1036.1306127169273" y="744" width="4.513199549553368" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1041.7017698823236" y="696" width="3.2133706080508952" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/helpers/__init__.py:1:&lt;module&gt; 0.00% (5 5 4.501000000000001e-06 0.036515501)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1041.7017698823236" y="720" width="3.2133706080508952" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 6.459e-06 0.036868709)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1041.7049027144124" y="744" width="3.1665566717812244" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1046.4291556518524" y="672" width="17.965380220023604" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:934:exec_module 0.00% (91 5 3.1002e-05 0.053254667000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">exec_module</text>
+</g></svg>
+<svg class="func_g" x="1065.394535871876" y="672" width="1.434879092133444" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:999:source_to_code 0.00% (1 1 1.6250000000000001e-06 0.006837125)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">source_to_code</text>
+</g></svg>
+<svg class="func_g" x="1065.394535871876" y="696" width="1.434879092133444" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:1007:get_code 0.00% (1 1 1.125e-06 0.006838250000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">get_code</text>
+</g></svg>
+<svg class="func_g" x="1065.394535871876" y="720" width="1.434879092133444" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:934:exec_module 0.00% (91 91 0.00037077800000000005 0.016588250000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">exec_module</text>
+</g></svg>
+<svg class="func_g" x="1065.394535871876" y="744" width="1.4348790921334436" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (91 5 0.000118048 0.053718418000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1067.8294149640094" y="672" width="2.51398552563755" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:1231:create_module 0.00% (22 22 1.0751000000000001e-05 0.009867249)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">create_module</text>
+</g></svg>
+<svg class="func_g" x="1067.8294149640094" y="696" width="2.51398552563755" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:566:module_from_spec 0.00% (22 22 2.5875000000000002e-05 0.009899458)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">module_from_spec</text>
+</g></svg>
+<svg class="func_g" x="1067.8294149640094" y="720" width="2.51398552563755" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (117 117 0.000147835 0.01163925)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1067.8294149640094" y="744" width="2.51398552563755" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (117 6 0.000252325 0.054109918)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1071.449481926574" y="528" width="44.968034267319446" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:999:source_to_code 0.00% (1 1 1.6250000000000001e-06 0.006837125)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">source_to_code</text>
+</g></svg>
+<svg class="func_g" x="1071.449481926574" y="552" width="44.968034267319446" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:1007:get_code 0.00% (1 1 1.125e-06 0.006838250000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">get_code</text>
+</g></svg>
+<svg class="func_g" x="1071.449481926574" y="576" width="44.968034267319446" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:934:exec_module 0.00% (91 91 0.00037077800000000005 0.016588250000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">exec_module</text>
+</g></svg>
+<svg class="func_g" x="1071.449481926574" y="600" width="44.968034267319446" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (91 5 0.000118048 0.053718418000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1071.449481926574" y="624" width="44.968034267319446" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (117 6 0.000252325 0.054109918)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1071.449481926574" y="648" width="44.968034267319446" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="1074.8212252683059" y="672" width="3.007768305336729" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/dill/__init__.py:1:&lt;module&gt; 0.00% (3 3 7.835e-06 0.025884334000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1074.8212252683059" y="696" width="3.007768305336729" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.804e-05 0.026787125000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1074.8242052257601" y="720" width="2.9632387760161563" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1078.8289935736425" y="672" width="1.7385118885093434" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/dill/_dill.py:1:&lt;module&gt; 0.00% (9 9 2.5037e-05 0.01768679)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1078.8289935736425" y="696" width="1.7385118885093434" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 0.000188975 0.019709084)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1078.8310297814007" y="720" width="1.708084818842733" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1082.8659217177042" y="672" width="3.1866076261075253" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/reduction.py:1:&lt;module&gt; 0.00% (1 1 2.6250000000000003e-06 0.027039375)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1082.8659217177042" y="696" width="3.1866076261075253" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.5087000000000001e-05 0.027107542000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1082.8690346503026" y="720" width="3.140091048092713" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1088.769816084279" y="672" width="4.585039976297646" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/helpers/pp_helper.py:1:&lt;module&gt; 0.00% (3 3 7.0420000000000005e-06 0.036071207)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1088.769816084279" y="696" width="4.585039976297646" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 6.46e-06 0.03610025)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1088.7739688147371" y="720" width="4.5229856901130026" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1094.4033513822314" y="672" width="4.84713494874805" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/pools.py:1:&lt;module&gt; 0.00% (4 4 8.206e-06 0.037763958)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1094.4033513822314" y="696" width="4.84713494874805" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 5.791e-06 0.037771083000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1094.4076989921853" y="720" width="4.78216857661648" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1101.3334062223905" y="672" width="7.387434254123784" height="23"><g>
+    <title>penrose/tiles.py:1:&lt;module&gt; 0.00% (3 3 1.3837000000000002e-05 0.054170584)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1101.3334062223905" y="696" width="7.387434254123784" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.46% (1 1 0.280676707 61.434122083000005)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1109.720840476514" y="672" width="6.696675717379038" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.__import__&gt; 0.00% (30 1 7.2792e-05 0.049709292)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.__import__&gt;</text>
+</g></svg>
+<svg class="func_g" x="1109.7209243937302" y="696" width="6.69659180016296" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (32 1 3.4335e-05 0.049710333)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1109.7246011733062" y="720" width="1.2728747440802732" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (5 1 2.333e-06 0.049711375)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1109.7246011733062" y="744" width="1.2728747440802737" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="1111.9974759173865" y="720" width="1.2077941407632302" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1209:_handle_fromlist 0.00% (27 7 7.209000000000001e-06 0.048287959000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_handle_fromlist</text>
+</g></svg>
+<svg class="func_g" x="1114.2052700581498" y="720" width="1.4348790921334444" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:934:exec_module 0.00% (91 5 3.1002e-05 0.053254667000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">exec_module</text>
+</g></svg>
+<svg class="func_g" x="1114.2052700581498" y="744" width="1.4348790921334444" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (91 5 0.000118048 0.053718418000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1117.4175161938933" y="528" width="65.34046330236372" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:1231:create_module 0.00% (22 22 1.0751000000000001e-05 0.009867249)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">create_module</text>
+</g></svg>
+<svg class="func_g" x="1117.4175161938933" y="552" width="65.34046330236372" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:566:module_from_spec 0.00% (22 22 2.5875000000000002e-05 0.009899458)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">module_from_spec</text>
+</g></svg>
+<svg class="func_g" x="1117.4175161938933" y="576" width="65.34046330236372" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (117 117 0.000147835 0.01163925)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1117.4175161938933" y="600" width="65.34046330236372" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (117 6 0.000252325 0.054109918)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1117.4175161938933" y="624" width="65.34046330236372" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="1122.2835718996123" y="648" width="4.783958579529486" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/dill/__init__.py:1:&lt;module&gt; 0.00% (3 3 7.835e-06 0.025884334000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1122.2835718996123" y="672" width="4.783958579529486" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.804e-05 0.026787125000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1122.287872535071" y="696" width="4.719694147672691" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1128.0675304791416" y="648" width="2.9521843894007977" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/dill/_dill.py:1:&lt;module&gt; 0.00% (9 9 2.5037e-05 0.01768679)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1128.0675304791416" y="672" width="2.9521843894007973" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 0.000188975 0.019709084)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1128.0704691074343" y="696" width="2.9082724420924193" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1133.8935721549285" y="648" width="5.042057138358865" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/multiprocess/reduction.py:1:&lt;module&gt; 0.00% (1 1 2.6250000000000003e-06 0.027039375)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1133.8935721549285" y="672" width="5.042057138358865" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 1.5087000000000001e-05 0.027107542000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1133.8980646983684" y="696" width="4.974925023924789" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1142.4139949619844" y="648" width="7.060256338897267" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/helpers/pp_helper.py:1:&lt;module&gt; 0.00% (3 3 7.0420000000000005e-06 0.036071207)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1142.4139949619844" y="672" width="7.060256338897267" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 6.46e-06 0.03610025)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1142.4199881280388" y="696" width="6.970700408107476" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1150.5442391121476" y="648" width="7.438508360736311" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/pools.py:1:&lt;module&gt; 0.00% (4 4 8.206e-06 0.037763958)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1150.5442391121476" y="672" width="7.438508360736311" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 5.791e-06 0.037771083000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1150.5505135257308" y="696" width="7.344749745755765" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1160.5456032369084" y="648" width="11.104634953517548" height="23"><g>
+    <title>penrose/tiles.py:1:&lt;module&gt; 0.00% (3 3 1.3837000000000002e-05 0.054170584)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1160.5456032369084" y="672" width="11.104634953517548" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.46% (1 1 0.280676707 61.434122083000005)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1172.6502381904259" y="648" width="10.10774130583141" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.__import__&gt; 0.00% (30 1 7.2792e-05 0.049709292)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.__import__&gt;</text>
+</g></svg>
+<svg class="func_g" x="1172.6503592986498" y="672" width="10.10762019760735" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (32 1 3.4335e-05 0.049710333)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1172.6556655786428" y="696" width="2.280182978320761" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (5 1 2.333e-06 0.049711375)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1172.6556655786428" y="720" width="2.280182978320761" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="1175.9358485569635" y="696" width="2.1862595063936734" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1209:_handle_fromlist 0.00% (27 7 7.209000000000001e-06 0.048287959000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_handle_fromlist</text>
+</g></svg>
+<svg class="func_g" x="1179.1221080633572" y="696" width="2.51398552563755" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:934:exec_module 0.00% (91 5 3.1002e-05 0.053254667000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">exec_module</text>
+</g></svg>
+<svg class="func_g" x="1179.1221080633572" y="720" width="2.51398552563755" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (91 5 0.000118048 0.053718418000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1179.1221080633572" y="744" width="2.51398552563755" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (117 6 0.000252325 0.054109918)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1183.7579794962573" y="528" width="1.002709351578631" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap_external&gt;:1239:exec_module 0.00% (22 22 7.835e-06 0.00029787600000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">exec_module</text>
+</g></svg>
+<svg class="func_g" x="1183.7579794962573" y="552" width="1.002709351578631" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (22 22 2.0705000000000003e-05 0.000322372)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1183.7579794962573" y="576" width="1.002709351578631" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (117 6 0.000252325 0.054109918)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1183.7579794962573" y="600" width="1.002709351578631" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="1185.7606888478358" y="504" width="10.865265315834838" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:977:exec_module 0.00% (1 1 3.7920000000000003e-06 0.0005582920000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">exec_module</text>
+</g></svg>
+<svg class="func_g" x="1185.7606888478358" y="528" width="10.865265315834838" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:666:_load_unlocked 0.00% (1 1 8.74e-07 0.000560458)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1185.7606888478358" y="552" width="10.865265315834838" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1122:_find_and_load_unlocked 0.00% (117 6 0.000252325 0.054109918)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load_unlocked</text>
+</g></svg>
+<svg class="func_g" x="1185.7606888478358" y="576" width="10.865265315834838" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:1167:_find_and_load 0.00% (131 6 0.000270915 0.054855127000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_find_and_load</text>
+</g></svg>
+<svg class="func_g" x="1190.2314121105487" y="600" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/helpers/pp_helper.py:1:&lt;module&gt; 0.00% (3 3 7.0420000000000005e-06 0.036071207)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1190.2314121105487" y="624" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 6.46e-06 0.03610025)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1190.2324840130013" y="648" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1191.6855397895267" y="600" width="1" height="23"><g>
+    <title>/opt/homebrew/lib/python3.11/site-packages/pathos/pools.py:1:&lt;module&gt; 0.00% (4 4 8.206e-06 0.037763958)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1191.6855397895267" y="624" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.00% (1 1 5.791e-06 0.037771083000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1191.6866619942593" y="648" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1193.474324988685" y="600" width="1.1649638565261036" height="23"><g>
+    <title>penrose/tiles.py:1:&lt;module&gt; 0.00% (3 3 1.3837000000000002e-05 0.054170584)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1193.474324988685" y="624" width="1.1649638565261036" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.46% (1 1 0.280676707 61.434122083000005)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1195.639288845211" y="600" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.__import__&gt; 0.00% (30 1 7.2792e-05 0.049709292)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.__import__&gt;</text>
+</g></svg>
+<svg class="func_g" x="1195.639310505916" y="624" width="1" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (32 1 3.4335e-05 0.049710333)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+<svg class="func_g" x="1197.6307116475648" y="264" width="1.3254648079027205" height="23"><g>
+    <title>~:0:&lt;method 'extend' of 'list' objects&gt; 0.19% (3178176 3178176 0.11905247000000001 0.11906825600000001)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'extend' of 'list' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="1197.6314822437132" y="288" width="1.3246942117544016" height="23"><g>
+    <title>penrose/tiles.py:48:deflateTileSet 0.19% (3178110 3178110 0.1190288 0.1190288)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflateTileSet</text>
+</g></svg>
+<svg class="func_g" x="1197.6314822437132" y="312" width="1.3246942117544016" height="23"><g>
+    <title>penrose/tiles.py:39:deflate 1.64% (14 14 1.008890405 2.459735416)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflate</text>
+</g></svg>
+<svg class="func_g" x="1197.6314822437132" y="336" width="1.3246942117544016" height="23"><g>
+    <title>penrose/tiles.py:153:deflateTileSetNTimes 0.06% (14 14 0.036129208 2.495864624)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">deflateTileSetNTimes</text>
+</g></svg>
+<svg class="func_g" x="1197.6314822437132" y="360" width="1.3246942117544016" height="23"><g>
+    <title>penrose/tiles.py:159:main 0.00% (1 1 1.1709000000000001e-05 2.495876333)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
+</g></svg>
+<svg class="func_g" x="1197.6314822437132" y="384" width="1.3246942117544016" height="23"><g>
+    <title>penrose/tiles.py:1:&lt;module&gt; 0.00% (1 1 4.9170000000000005e-06 2.495896916)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;module&gt;</text>
+</g></svg>
+<svg class="func_g" x="1197.6314822437132" y="408" width="1.3246942117544016" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.exec&gt; 0.46% (1 1 0.280676707 61.434122083000005)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="1197.6332107592655" y="432" width="1.2988649893101205" height="23"><g>
+    <title>&lt;frozen importlib._bootstrap&gt;:233:_call_with_frames_removed 0.00% (91 5 0.000315665 0.053253124000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_with_frames_removed</text>
+</g></svg>
+</svg>
