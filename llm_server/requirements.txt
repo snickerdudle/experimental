@@ -1,0 +1,13 @@
+flask
+transformers
+torch
+langchain
+accelerate
+tiktoken
+bitsandbytes
+sentencepiece
+protobuf
+scipy
+einops
+ninja
+git+https://github.com/HazyResearch/flash-attention.git#subdirectory=csrc/rotary
